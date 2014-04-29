@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Android-gcm-client</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="CONFIG_FILE_NAME">app.properties</string>
+    <string name="push">Push!!</string>
+
+</resources>
